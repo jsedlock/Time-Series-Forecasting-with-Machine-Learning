@@ -4,14 +4,12 @@ This project aims to predict energy consumption using time series forecasting te
 
 ## Table of Contents
 
-<Introduction<#Dataset>
-Dataset
-Installation
-Usage
-Results
-Contributing
-License
-Introduction
+[Introduction]#Introduction
+[Dataset]#Dataset
+[Installation]#Installation
+[Results]#Results
+
+## Introduction
 
 Energy consumption forecasting plays a crucial role in optimizing energy usage, improving energy efficiency, and making informed decisions. This project utilizes the XGBoost algorithm, a gradient boosting framework, to predict energy consumption based on historical data. By training the model on past energy consumption patterns, we can generate accurate forecasts for future energy demand.
 
