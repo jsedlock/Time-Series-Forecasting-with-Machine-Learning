@@ -4,10 +4,10 @@ This project aims to predict energy consumption using time series forecasting te
 
 ## Table of Contents
 
-[Introduction]#Introduction
-[Dataset]#Dataset
-[Installation]#Installation
-[Results]#Results
+[Introduction](#Introduction)
+[Dataset](#Dataset)
+[Installation](#Installation)
+[Results](#Results)
 
 ## Introduction
 
