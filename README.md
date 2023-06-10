@@ -26,13 +26,6 @@ NumPy
 Pandas
 XGBoost
 Scikit-learn
-You can install the required dependencies by executing the following command:
-
-shell
-Copy code
-pip install numpy pandas xgboost scikit-learn
-Usage
-
 
 ## Results
 
